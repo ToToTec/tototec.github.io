@@ -1,0 +1,17 @@
+div#content {
+	display: table;
+	margin: 20px auto;
+	padding: 2ex 3em;
+	border: 4px solid #660000;
+}
+
+span {
+	font: normal 100% arial, sans-serif;
+	color: #444;
+}
+
+span#company {
+	font-size: 120%;
+	font-weight: bold;
+}
+
